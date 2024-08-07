@@ -4,7 +4,7 @@ resource "null_resource" "example" {
     always_run = "${timestamp()}"
   }
 
- 
+ WWWWW
 
   # Execute a shell command when this resource is created or updated
   provisioner "local-exec" {
